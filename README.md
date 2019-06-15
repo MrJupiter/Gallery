@@ -11,4 +11,4 @@ This project is under MIT License
 
 # Demo
 
-<img src="./demo.png" width="856" >
+<img src="./demo.gif" width="856" >
